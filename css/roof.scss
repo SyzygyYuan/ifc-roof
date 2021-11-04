@@ -1,5 +1,5 @@
 // Usage: font-family: 'cwtexfangsong', serif;
-@import 'cwtexfangsong.css';
+// @import 'cwtexfangsong.css';
 // Usage: font-family: 'cwtexming', serif;
 // @import 'cwtexming.css';
 
@@ -54,7 +54,9 @@ a {
 .location {
   color: #C2C2C2;
   font-size: 46px;
-  font-family: 'cwtexfangsong', 'DFKai-sb', 'LiSong Pro', serif;
+  font-family : "Eten24"; 
+  src: url('Eten24.ttf');
+  // font-family: 'cwtexfangsong', 'DFKai-sb', 'LiSong Pro', serif;
   // font-family: 'cwtexming', 'DFKai-sb', 'LiSong Pro', serif;
   line-height: 0.92em;
   white-space: nowrap;
